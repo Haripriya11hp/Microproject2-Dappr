@@ -95,7 +95,7 @@ body{
 .social{
     position: sticky;
     float: right;
-    top: 25%;
+    top: 30%;
     padding-top: 20px;
     align-self: flex-start;
     display: flex;
